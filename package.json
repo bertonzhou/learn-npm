@@ -1,5 +1,6 @@
 {
   "name": "learn-npm",
+  "author": "Rolfe JJ Power",
   "version": "1.0.0",
   "description": "learnning NPM",
   "main": "index.js",
@@ -11,7 +12,6 @@
     "url": "git+https://github.com/bertonzhou/learn-npm.git"
   },
   "keywords": [],
-  "author": "Rolfe JJ Power",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/bertonzhou/learn-npm/issues"
